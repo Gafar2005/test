@@ -1,2 +1,1 @@
-# test
-Html dosyalari Gelecek
+Scanner scan = new Scanner(System.in);
